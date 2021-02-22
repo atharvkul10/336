@@ -1,0 +1,1 @@
+For the transactions table, there was a duplicate entry that prevented the establishment of a primary key. However, if this duplicate entry was deleted, the primary key for the transactions table would be (bill_id, item)
